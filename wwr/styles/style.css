@@ -234,4 +234,24 @@ home-grid {
         margin-top: 25px;
     }
 }
-    
+
+/* page 2 css */
+#hero-img2{
+    width: 100%;
+}
+.canyon-img{
+    width: 75%;
+}
+.river-content h5{
+    background-color: #B7F0AD;
+    font-family: 'Macondo', Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    line-height: 1.5em;
+    padding: 35px;
+    grid-column: 6/10;
+    grid-row: 6/7;
+    box-shadow: 5px 5px 10px #DD6E42;
+    margin-left: 25px;
+    margin-right: 25px;
+    text-indent: 10px;
+}
